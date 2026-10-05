@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Contexto local del asistente (no forma parte del proyecto)
+AGENTS.md
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

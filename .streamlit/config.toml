@@ -1,0 +1,4 @@
+# Configuración visual de Streamlit (opcional).
+[theme]
+primaryColor = "#2f6f9f"
+base = "light"
